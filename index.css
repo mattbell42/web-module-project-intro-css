@@ -1,0 +1,85 @@
+.orange-button{
+    background-color:#FF764E;
+    color:white;
+}
+
+.blue-button{
+    background-color:#5ED3EB;
+    color:white;
+}
+
+.yellow-button{
+    background-color:#FFCD69;
+    color:white;
+}
+
+body{
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1{
+    font-family: 'Chelsea-Market', cursive;
+}
+
+section.main-content{
+    color:white;
+    background-color:#DDB9A3 ;
+}
+
+footer{
+    background-color:#F9E7DC ;
+}
+
+.navigation nav a{
+    margin: 100px;
+    padding: 30px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.page-head img{
+    width: 15%;
+    height:15%;
+    border-radius: 100%;
+}
+
+.page-head h1,p,img{
+    display:inline-block;
+}
+
+.page-head{
+    font-size: 130%;
+    text-align: center;
+}
+
+.main-content{
+    text-align: center;
+}
+
+.fire-info{
+    text-align: center;
+}
+
+.fire-info img{
+    height: 300px;
+    width: 300px;
+}
+
+.res-info{
+    text-align: center;
+}
+
+.res-info img{
+    height: 25%;
+    width: 25%;
+}
+
+footer img{
+    height:200px;
+    width:2000px;
+    display:stretch;
+}
